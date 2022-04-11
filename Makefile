@@ -1,5 +1,5 @@
 IMAGE_VERSION = latest
-REGISTRY = docker.io/joyme
+REGISTRY = docker.io/wangkeya
 IMAGE = ${REGISTRY}/cola-device-plugin:${IMAGE_VERSION}
 
 .PHONY: build deploy

@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: joyme/cola-device-plugin
+  repository: wangkeya/cola-device-plugin
   pullPolicy: IfNotPresent
 
 imagePullSecrets: []
